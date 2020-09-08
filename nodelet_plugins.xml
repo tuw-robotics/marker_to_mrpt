@@ -1,0 +1,8 @@
+<library path="lib/libmarker_to_mrpt_nodelet">
+    <class name="marker_to_mrpt/MarkerToMRPTNodelet" type="marker_to_mrpt::MarkerToMRPTNodelet" base_class_type="nodelet::Nodelet">
+        <description>
+            This nodelet converts markers to mprt format.
+        </description>
+    </class>
+</library>
+
